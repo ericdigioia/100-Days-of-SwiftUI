@@ -51,6 +51,18 @@ The first two weeks were a review of the Swift programming language.
 
 ### Technique Project: Accessibility (Days 74-76)
 
+### Day77Challenge (Days 77-78 Challenge)
+
+### HotProspects (Days 79-85)
+
+### Flashzilla (Days 86-91)
+
+### Technique Project: Layout and Geometry (Days 92-94)
+
+### DiceRoll (Day 95 Challenge)
+
+### SnowSeeker (Days 96-99)
+
 ## 100 Days of SwiftUI from Hacking with Swift
 https://www.hackingwithswift.com/100/swiftui
 
