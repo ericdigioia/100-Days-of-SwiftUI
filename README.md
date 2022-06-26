@@ -7,3 +7,7 @@ My solutions to Hacking with Swift's 100 Days of SwiftUI projects
 
 ## 100 Days of SwiftUI from Hacking with Swift
 https://www.hackingwithswift.com/100/swiftui
+
+[swift-version]: https://img.shields.io/badge/Swift-5.1-green.svg
+[xcode-version]: https://img.shields.io/badge/Xcode-11.2-green.svg
+[ios-version]: https://img.shields.io/badge/iOS-13.2-green.svg
