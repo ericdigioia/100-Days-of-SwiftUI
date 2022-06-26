@@ -11,57 +11,57 @@ My solutions to Hacking with Swift's 100 Days of SwiftUI projects
 
 The first two weeks were a review of the Swift programming language.
 
-### WeSplit (Days 16-18)
+### Project 1: WeSplit (Days 16-18)
 
-### UnitConverter (Day 19 Challenge)
+### Challenge 1: UnitConverter (Day 19)
 
-### GuessTheFlag (Days 20-22)
+### Project 2: GuessTheFlag (Days 20-22)
 
-### Technique Project: Views and Modifiers (Days 23-24)
+### Project 3 (Technique): Views and Modifiers (Days 23-24)
 
-### BrainTrainingGame (Day 25 Challenge)
+### Challenge 2: BrainTrainingGame (Day 25)
 
-### BetterRest (Days 26-28)
+### Project 4: BetterRest (Days 26-28)
 
-### WordScramble (Days 29-31)
+### Project 5: WordScramble (Days 29-31)
 
-### Technique Project: Animation (Days 32-34)
+### Project 6 (Technique): Animation (Days 32-34)
 
-### TimesTableGame (Day 35 Challenge)
+### Challenge 3: TimesTableGame (Day 35)
 
-### iExpense (Days 36-38)
+### Project 7: iExpense (Days 36-38)
 
-### Moonshot (Days 39-42)
+### Project 8: Moonshot (Days 39-42)
 
-### Technique Project: Drawing (Days 43-46)
+### Project 9 (Technique): Drawing (Days 43-46)
 
-### HabitTracker (Day 47 Challenge)
+### Challenge 4: HabitTracker (Day 47)
 
-### Cupcake Corner (Days 49-52)
+### Project 10: Cupcake Corner (Days 49-52)
 
-### Bookworm (Days 53-56)
+### Project 11: Bookworm (Days 53-56)
 
-### Technique Project: Core Data (Days 57-59)
+### Project 12 (Technique): Core Data (Days 57-59)
 
-### Core Data Challenge (Days 60-61 Challenge)
+### Challenge 5: Core Data Challenge (Days 60-61)
 
-### Instafilter (Days 62-67)
+### Project 13: Instafilter (Days 62-67)
 
-### BucketList (Days 68-73)
+### Project 14: BucketList (Days 68-73)
 
-### Technique Project: Accessibility (Days 74-76)
+### Project 15 (Technique): Accessibility (Days 74-76)
 
-### Day77Challenge (Days 77-78 Challenge)
+### Challenge 6: Day77Challenge (Days 77-78)
 
-### HotProspects (Days 79-85)
+### Project 16: HotProspects (Days 79-85)
 
-### Flashzilla (Days 86-91)
+### Project 17: Flashzilla (Days 86-91)
 
-### Technique Project: Layout and Geometry (Days 92-94)
+### Project 18 (Technique): Layout and Geometry (Days 92-94)
 
-### DiceRoll (Day 95 Challenge)
+### Challenge 7: DiceRoll (Day 95)
 
-### SnowSeeker (Days 96-99)
+### Project 19: SnowSeeker (Days 96-99)
 
 ## 100 Days of SwiftUI from Hacking with Swift
 https://www.hackingwithswift.com/100/swiftui
