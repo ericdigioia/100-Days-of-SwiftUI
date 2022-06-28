@@ -1,4 +1,4 @@
-# 100-Days-of-SwiftUI
+# 100 Days of SwiftUI
 ![Compatible with Swift 5.6][swift-version]
 ![Tested with Xcode 13.3][xcode-version]
 ![Tested with iOS 15.0][ios-version]
