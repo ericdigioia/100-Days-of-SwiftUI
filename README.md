@@ -99,7 +99,10 @@ The first two weeks were a review of the Swift programming language.
 
 ### Challenge 7: DiceRoll (Day 95)
 
-<img src="DiceRoll (Day 95)/preview.GIF" height="500">
+<img align="left" src="DiceRoll (Day 95)/preview.GIF" height="500"><br/><br/><br/><br/><br/>
+This is an application in which the user can <br/>select the number of dice (1-25) as well as <br/>the type of die (6-sides, 20-sided, etc.) and <br/>get a random sum of their roll. All rolls are <br/>stored in the roll log and can be viewed or <br/>cleared at any time. I made sure this app is <br/>accessible and did extensive testing with <br/>VoiceOver. Accessibility is a part of core <br/>functionality, not a feature.<br/><br/>
+[challenge page](https://www.hackingwithswift.com/guide/ios-swiftui/7/3/challenge)
+<br clear="left"/>
 
 ### Project 19: SnowSeeker (Days 96-99)
 
