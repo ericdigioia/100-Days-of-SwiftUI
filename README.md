@@ -16,71 +16,148 @@ The first two weeks were a review of the Swift programming language.
 
 ### Project 1: WeSplit (Days 16-18)
 
-<img src="WeSplit/preview.GIF" height="500">
+<img align="left" src="WeSplit/preview.GIF" height="500"><br/><br/><br/><br/><br/><br/><br/><br/>
+This app lets the user easily calculate how <br/>
+to split a meal (or any cost, really) evenly <br/>
+amongst varying numbers of people <br/>
+(including tip calculation).<br/><br/>
+<br clear="left"/>
 
 ### Challenge 1: UnitConverter (Day 19)
 
-<img src="UnitConverter/preview.GIF" height="500">
+<img align="left" src="UnitConverter/preview.GIF" height="500"><br/><br/><br/><br/><br/><br/><br/><br/>
+This is an app which lets the user <br/>
+convert between various different <br/>
+units of measurement.<br/><br/>
+[challenge page](https://www.hackingwithswift.com/100/swiftui/19)
+<br clear="left"/>
 
 ### Project 2: GuessTheFlag (Days 20-22)
 
-<img src="GuessTheFlag/preview.GIF" height="500">
+<img align="left" src="GuessTheFlag/preview.GIF" height="500"><br/><br/><br/><br/><br/><br/><br/><br/>
+A simple game of guessing <br/>
+country flags!<br/><br/>
+<br clear="left"/>
 
 ### Project 3 (Technique): Views and Modifiers (Days 23-24)
 
 ### Challenge 2: BrainTrainingGame (Day 25)
 
-<img src="BrainTrainingGame (Day 25)/preview.GIF" height="500">
+<img align="left" src="BrainTrainingGame (Day 25)/preview.GIF" height="500"><br/><br/><br/><br/><br/><br/>
+This is a rock-paper-scissors-like game with <br/>
+a twist; the user sees the opponent's move <br/>
+and is prompted to either win or lose. The <br/>
+user must think quickly to choose which <br/>
+option will give them the desired outcome.<br/><br/>
+[challenge page](https://www.hackingwithswift.com/guide/ios-swiftui/2/3/challenge)
+<br clear="left"/>
 
 ### Project 4: BetterRest (Days 26-28)
 
-<img src="BetterRest/preview.GIF" height="500">
+<img align="left" src="BetterRest/preview.GIF" height="500"><br/><br/><br/><br/><br/><br/><br/>
+An app that uses Core ML to calculate what time <br/>
+you should sleep given how long you would like <br/>
+to sleep and your target wake time.<br/><br/>
+<br clear="left"/>
 
 ### Project 5: WordScramble (Days 29-31)
 
-<img src="WordScramble/preview.GIF" height="500">
+<img align="left" src="WordScramble/preview.GIF" height="500"><br/><br/><br/><br/><br/><br/><br/>
+A word game in which you must create new words <br/>
+using the letters of a given word. High score is <br/>
+saved across sessions.<br/><br/>
+<br clear="left"/>
 
 ### Project 6 (Technique): Animation (Days 32-34)
 
 ### Challenge 3: TimesTableGame (Day 35)
 
-<img src="TimesTableGame (Day 35)/preview.GIF" height="500">
+<img align="left" src="TimesTableGame (Day 35)/preview.GIF" height="500"><br/><br/><br/><br/><br/><br/>
+A simple multiplication table quiz game. <br/>
+The user can select which table to practice <br/>
+as well as how many questions they would like.<br/><br/>
+[challenge page](https://www.hackingwithswift.com/guide/ios-swiftui/3/3/challenge)
+<br clear="left"/>
 
 ### Project 7: iExpense (Days 36-38)
 
-<img src="iExpense/preview.GIF" height="500">
+<img align="left" src="iExpense/preview.GIF" height="500"><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+In this app, you can store both <br/>
+personal and business expenses!<br/><br/>
+<br clear="left"/>
 
 ### Project 8: Moonshot (Days 39-42)
 
-<img src="Moonshot/preview.GIF" height="500">
+<img align="left" src="Moonshot/preview.GIF" height="500"><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+An app for learning about the <br/>
+different NASA lunar missions. <br/>
+Data comes from JSON files.<br/><br/>
+<br clear="left"/>
 
 ### Project 9 (Technique): Drawing (Days 43-46)
 
 ### Challenge 4: HabitTracker (Day 47)
 
-<img src="HabitTracker (Day 47)/preview.GIF" height="500">
+<img align="left" src="HabitTracker (Day 47)/preview.GIF" height="500"><br/><br/><br/><br/><br/>
+This is an application in which the user can <br/>
+create a new habit/task, and each habit has <br/>
+a creation date, description (optional), target <br/>
+frequency (optional), as well as a counter for <br/>
+the number of times this task has been <br/>
+completed.<br/><br/>
+[challenge page](https://www.hackingwithswift.com/guide/ios-swiftui/4/3/challenge)
+<br clear="left"/>
 
 ### Project 10: Cupcake Corner (Days 49-52)
 
-<img src="CupcakeCorner/preview.GIF" height="500">
+<img align="left" src="CupcakeCorner/preview.GIF" height="500"><br/><br/><br/><br/><br/><br/><br/>
+This is a simulated cupcake online ordering <br/>
+app. This app using asynchronous functions <br/>
+for loading data from the web.<br/><br/>
+<br clear="left"/>
 
 ### Project 11: Bookworm (Days 53-56)
 
-<img src="Bookworm/preview.GIF" height="500">
+<img align="left" src="Bookworm/preview.GIF" height="500"><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+This is an app to write and save <br/>
+book reviews for yourself!<br/><br/>
+<br clear="left"/>
 
 ### Project 12 (Technique): Core Data (Days 57-59)
 
 ### Challenge 5: Core Data Challenge (Days 60-61)
 
-<img src="CoreDataChallenge_v2 (Day 61)/preview.GIF" height="500">
+<img align="left" src="CoreDataChallenge_v2 (Day 61)/preview.GIF" height="500"><br/><br/><br/>
+This application reads in a fictional database <br/>
+of users each with their own user ID, personal <br/>
+information such as name, address, company, etc., <br/>
+a description, a join date, online status, and a <br/>
+friend list. These users are organized into a <br/>
+list and can be viewed individually in a more <br/>
+detailed page. This version differs from the <br/>
+first version in that this one was remade to <br/>
+use CoreData. The first day of this challenge <br/>
+was making the app without Core Data and the <br/>
+second day was remaking it with Core Data.<br/><br/>
+[challenge page](https://www.hackingwithswift.com/100/swiftui/61)
+<br clear="left"/>
 
 ### Project 13: Instafilter (Days 62-67)
 
-<img src="Instafilter/preview.GIF" height="500">
+<img align="left" src="Instafilter/preview.GIF" height="500"><br/><br/><br/><br/><br/><br/><br/><br/>
+This app lets the user choose an image from <br/>
+their photo library and apply various filters <br/>
+to it. The edited image can then be saved <br/>
+back to the photo library.<br/><br/>
+<br clear="left"/>
 
 ### Project 14: BucketList (Days 68-73)
 
-<img src="BucketList/preview.GIF" height="500">
+<img align="left" src="BucketList/preview.GIF" height="500"><br/><br/><br/><br/><br/><br/><br/>
+An app where you can drop pins on a map, give <br/>
+the pin a label and description, and see various <br/>
+places of interest in the area courtesy of Wikipedia!<br/><br/>
+<br clear="left"/>
 
 ### Project 15 (Technique): Accessibility (Days 74-76)
 
@@ -99,11 +176,25 @@ added and deleted.<br/><br/>
 
 ### Project 16: HotProspects (Days 79-85)
 
-<img src="HotProspects/preview.GIF" height="500">
+<img align="left" src="HotProspects/preview.GIF" height="500"><br/><br/><br/><br/><br/><br/>
+This is an app designed for conferences and <br/>
+similar networking events. Users can set their <br/>
+name and email address (or any other type of <br/>
+contact information) and share their info via <br/>
+QR code. Users can scan others' QR codes to <br/>
+add them to their in-app list. People can then <br/>
+be organized based on whether or not they have <br/>
+been contacted yet.<br/><br/>
+<br clear="left"/>
 
 ### Project 17: Flashzilla (Days 86-91)
 
-<img src="Flashzilla/preview.GIF" width="500">
+<img align="left" src="Flashzilla/preview.GIF" width="500"><br/><br/><br/>
+This is a flash card application <br/>
+in which the user can create <br/>
+and delete their own question-<br/>
+and-answer cards.<br/><br/>
+<br clear="left"/>
 
 ### Project 18 (Technique): Layout and Geometry (Days 92-94)
 
@@ -124,7 +215,11 @@ functionality, not a feature.<br/><br/>
 
 ### Project 19: SnowSeeker (Days 96-99)
 
-<img src="SnowSeeker/preview.GIF" height="500">
+<img align="left" src="SnowSeeker/preview.GIF" height="500"><br/><br/><br/><br/><br/><br/><br/><br/>
+This is an app in which various <br/>
+fictional ski resorts can be <br/>
+viewed, sorted, and favorited.<br/><br/>
+<br clear="left"/>
 
 ## 100 Days of SwiftUI from Hacking with Swift
 https://www.hackingwithswift.com/100/swiftui
